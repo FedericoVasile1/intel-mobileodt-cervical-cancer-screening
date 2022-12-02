@@ -1,1 +1,2 @@
-# Inter-MobileODT-Cervical-Cancer-Screening
+# inter-mobileodt-cervical-cancer-screening
+https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
